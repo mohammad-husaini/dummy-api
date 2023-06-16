@@ -2,8 +2,6 @@
 
 This web application fetches quotes from the Dummy JSON API and allows users to search and display the quotes in a list format.
 
-![Screenshot](screenshot.png)
-
 ## Features
 
 - Fetches quotes from the Dummy JSON API
